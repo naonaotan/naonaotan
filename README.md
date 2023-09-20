@@ -4,7 +4,7 @@
 
 ## Introduce
 
-<img align="right" src="https://i.picasion.com/pic92/6c0de42f85efbb6fb58cb0b5e2d36f13.gif" width="160" height="160" border="0" alt="Vi-Naomi">
+<img align="right" src="https://i.picasion.com/pic92/6c0de42f85efbb6fb58cb0b5e2d36f13.gif" width="150" height="150" border="0" alt="Vi-Naomi">
 I'm Vitória Aibara, a passionate data scientist and tech enthusiast. I currently work as a Junior Data Scientist at Skymarine logistics.</br>
 With over 1 year of experiencie in the field, I've had the opportunity to work on various excitng projects and explor different technologies.
 
@@ -20,7 +20,7 @@ Wanna talk about storytelling with data, dashboards or business inteligence? 'Ca
 ![]()
 ![](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
 
-### Visualização de dados e design gráfico
+### Data visualization e graphic design
 
 ![](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
