@@ -55,6 +55,5 @@ _not published yet_
 
 ![](https://github-readme-stats.vercel.app/api?username=naonaotan&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=rose)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=naonaotan&theme=rose)
-![snake animation](https://github.com/<naonaotan>/<naonaotan>/blob/output/github-contribution-grid-snake2.svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
