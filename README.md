@@ -52,7 +52,7 @@ _not published yet_
 <a href = "mailto:vitoriaaibara@gmail.com" target="blank" ><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="25" width="40" /></a>
 
 ## GitHub Stats:
-
+![Serpent](https://github.com/naonaotan/naonaotan/blob/output/github-contribution-grid-snake.svg)
 ![](https://github-readme-stats.vercel.app/api?username=naonaotan&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=rose)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=naonaotan&theme=rose)
 
