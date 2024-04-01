@@ -50,7 +50,6 @@ Scientific article published and approved by the Scientific Initiation Program o
     <title>Percepção dos profissionais da área de dados da carreira no Brasil</title>
   </head>
   <body>
-    <h1>PDF</h1>
     <p>Open the Article in <a href="https://drive.google.com/file/d/1Ecr8aveSeBSZmdQNFKVCNuQ1H1Z9EiVz/view?usp=sharing">PDF</a>.</p>
   </body>
 </html>
