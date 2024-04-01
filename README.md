@@ -51,7 +51,7 @@ Scientific article published and approved by the Scientific Initiation Program o
   </head>
   
   <body>
-    <p>Open the Article in <a href="https://drive.google.com/file/d/1Ecr8aveSeBSZmdQNFKVCNuQ1H1Z9EiVz/view?usp=sharing">PDF</a>.</p>
+    <p>Open the article in <a href="https://drive.google.com/file/d/1Ecr8aveSeBSZmdQNFKVCNuQ1H1Z9EiVz/view?usp=sharing">PDF</a>.</p>
   </body>
 </html>
 
