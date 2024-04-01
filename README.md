@@ -44,7 +44,16 @@ Wanna talk about storytelling with data, dashboards or business inteligence? 'Ca
 
 ## Academic curriculum
 Scientific article published and approved by the Scientific Initiation Program of FAE Business School and supervised by Professor Naiara Johnsson.</br>
-_not published yet_
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Percepção dos profissionais da área de dados da carreira no Brasil</title>
+  </head>
+  <body>
+    <h1>PDF</h1>
+    <p>Open a PDF file <a href="[/uploads/media/default/0001/01/540cb75550adf33f281f29132dddd14fded85bfc.pdf](https://www.sejda.com/share/d37f7885577d43518514041c1d312dce-XWsgHw3bN4vvjlluDvHrisB0mXRBMnOSqnn0E1GjHRERSWm_KEGlxITFxa8iT6jn)">example</a>.</p>
+  </body>
+</html>
 
 ## **Connect with me**
 
