@@ -47,7 +47,7 @@ Scientific article published and approved by the Scientific Initiation Program o
 <!DOCTYPE html>
 <html>
   <head>
-    <h3>Percepção dos profissionais da área de dados da carreira no Brasil</h3>
+    <b>Percepção dos profissionais da área de dados da carreira no Brasil</b>
   </head>
   
   <body>
