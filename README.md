@@ -51,7 +51,7 @@ Scientific article published and approved by the Scientific Initiation Program o
   </head>
   <body>
     <h1>PDF</h1>
-    <p>Open the Article in<a href="[/uploads/media/default/0001/01/540cb75550adf33f281f29132dddd14fded85bfc.pdf](https://www.sejda.com/share/d37f7885577d43518514041c1d312dce-XWsgHw3bN4vvjlluDvHrisB0mXRBMnOSqnn0E1GjHRERSWm_KEGlxITFxa8iT6jn)](https://drive.google.com/file/d/1Ecr8aveSeBSZmdQNFKVCNuQ1H1Z9EiVz/view?usp=sharing)">PDF</a>.</p>
+    <p>Open the Article in <a href="https://drive.google.com/file/d/1Ecr8aveSeBSZmdQNFKVCNuQ1H1Z9EiVz/view?usp=sharing">PDF</a>.</p>
   </body>
 </html>
 
