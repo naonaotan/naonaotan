@@ -9,6 +9,7 @@ I'm Vitória Aibara, a passionate data scientist and tech enthusiast. I currentl
 With over 1 year of experiencie in the field, I've had the opportunity to work on various excitng projects and explor different technologies.
 </br>
 
+</br>
 ## Expertise
 
 At the moment, I'm studying logic of progamming and the basics of machine learning.
