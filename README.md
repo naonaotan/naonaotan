@@ -5,10 +5,9 @@
 ## Introduce
 
 <img align="right" src="https://i.picasion.com/pic92/6c0de42f85efbb6fb58cb0b5e2d36f13.gif" width="150" height="150" border="0" alt="Vi-Naomi">
-I'm Vitória Aibara, a passionate data scientist and tech enthusiast. I currently work as a Junior Data Scientist at Skymarine logistics.</br>
+I'm Vitória Aibara, a passionate data scientist and tech enthusiast.</br>
+I currently work as a Junior Data Scientist at Skymarine logistics.</br>
 With over 1 year of experiencie in the field, I've had the opportunity to work on various excitng projects and explor different technologies.
-</br>
-</br>
 </br>
 
 ## Expertise
