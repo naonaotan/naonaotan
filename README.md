@@ -8,7 +8,7 @@
 I'm Vitória Aibara, a passionate data scientist and tech enthusiast.</br>
 I currently work as a Junior Data Scientist at Skymarine logistics.</br>
 With over 1 year of experiencie in the field, I've had the opportunity to work on various excitng projects and explor different technologies.
-</br>
+</br></br>
 
 ## Expertise
 
